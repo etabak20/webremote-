@@ -52,7 +52,7 @@ pipeline {
 
                     echo "test number is in the comment step"
                     echo "Test step completed successfully "
-                    echo "first step stage then second step commit after step push "
+                    
  main
 
                 '''
