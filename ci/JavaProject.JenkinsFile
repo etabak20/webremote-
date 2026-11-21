@@ -21,10 +21,7 @@ pipeline {
 
                     gradle build
             
-              echo "build step completed successfully  ......." 
-              echo "build step completed "
-              echo "merge işlemi pull reguestten(kodlar çalışıyormu diye kontrol etme ) sonra yapılır merge(mörc) yapıştırma gibi düşün yazdıgım kodun ana koda yapıştırılması ana maine yapıştırma  " 
-
+              echo "BUİLD STEP COMPLETED  SUCCESSFULLY"
 
  main
 
