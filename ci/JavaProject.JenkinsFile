@@ -46,12 +46,7 @@ pipeline {
                     sleep 30
 
 
-
-
-
-
-                    echo "test number is in the comment step"
-                    echo "Test step completed successfully "
+                    echo "Test step completed "
                     
  main
 
