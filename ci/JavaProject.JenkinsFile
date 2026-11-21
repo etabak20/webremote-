@@ -22,6 +22,7 @@ pipeline {
                     gradle build
             
               echo "BUİLD STEP COMPLETED  SUCCESSFULLY"
+              echo "build  first step completed " 
 
  main
 
