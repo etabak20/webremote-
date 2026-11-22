@@ -47,6 +47,7 @@ pipeline {
 
 
                     echo "Test second step completed ...."
+                    echo "build step completed succesfully"
                     
                     
  main
