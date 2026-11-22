@@ -46,7 +46,7 @@ pipeline {
                     sleep 30
 
 
-                    echo "Test step completed "
+                    echo "Test step completed succesfully " 
                     
  main
 
