@@ -20,13 +20,17 @@ pipeline {
                     export PATH="$PATH:/opt/gradle/gradle-7.6/bin"
 
                     gradle build
+
+
+
+
+              echo " Build first step completed successfully. "
             
-              echo "BUİLD STEP COMPLETED  SUCCESSFULLY"
-              echo "build  first step completed " 
 
- main
 
-                    
+
+
+
                 '''
             }
         }
@@ -47,11 +51,7 @@ pipeline {
 
 
                     echo "Test second step completed ...."
-                    echo "build step completed succesfully"
-                    
-                    
- main
-
+                   
                 '''
             }
         }
